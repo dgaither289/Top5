@@ -1,0 +1,20 @@
+.darren { 
+	background-color: #B40431 ; 
+	color: black; 
+	font-size: 60px;
+	text-align: center; 
+	text-decoration: underline;}
+.darren2 { 
+	background-color: gray; 
+	border: solid black 7px; 
+	font-size: 30px; 
+	padding-left: 200px; 
+	margin: 15px; 
+	text-align: left; 
+	font-family: serif; 
+	font-style: italic; 
+}
+#con {
+	background-image: url(https://i.pinimg.com/474x/e3/09/79/e30979df955be73137aa02f889a8be4d.jpg);
+	background-size: cover;
+}
